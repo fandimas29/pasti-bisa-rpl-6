@@ -14,7 +14,8 @@ PARKuy merupakan sebuah aplikasi berbasis android yang digunakan untuk menentuka
 User analysis
 
 Spesifikasi teknis lingkungan pengembangan 
+
 Software: 
-~Database: PostgreSQL
-~Bahasa Pemrograman: Java
-~Text Editor: Atom, Notepad++
+1. Database: PostgreSQL
+2. Bahasa Pemrograman: Java
+3. Text Editor: Atom, Notepad++
