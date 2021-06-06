@@ -65,21 +65,21 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
 [`^ Kembali Keatas ^`](#)
 
 #### Software:
-* Operating System : Windows 10 64-bit
-* Text Editor : Visual Studio Code, Android Studio, Atom, dan Notepad++
+* Operating System : Windows 7 64-bit
+* Text Editor : Atom
 * Version Control System: Git
 * Design Tools and Prototyping : Figma
 * Management Tools : Trello and Google Site
   
 #### Hardware:
-* Prosesor: Intel Core i3-7020U 2.30GHz 
-* Kartu Grafis: Intel HD Graphics 620 
-* Memori: 12,00 GB 
-* Kapasitas Penyimpanan: 1 TB
+* Prosesor: Intel Core i5-2468M CPU @ 1.60GHz
+* Kartu Grafis: Intel HD Graphics Family
+* Memori: 4,00 GB 
+* Kapasitas Penyimpanan: 128 GB
 
 #### Tech Stack:
 * Framework: Ionic 
-* Database: PostgreSQL
+* Database: Excel
 * Bahasa Pemograman: Javascript 
  
 
