@@ -106,7 +106,7 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
   
   ### 4. Entity Relationship Diagram
   
- 
+ <img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/ERD%20Parkir.png">
   
   ### 5. Arsitektur sistem  
   <img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/arsitektur%20diagram.png">
