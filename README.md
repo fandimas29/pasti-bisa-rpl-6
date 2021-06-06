@@ -102,7 +102,7 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
   
  
   ### 3. Class Diagram 
-  
+  <img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/class%20diagram.png">
   
   ### 4. Entity Relationship Diagram
   
