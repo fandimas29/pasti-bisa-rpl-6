@@ -96,8 +96,7 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
   * Melihat biaya parkir :
   <img src="">
   
-  * Melihat catatan/riwayat :
-  <img src="">
+
   
   
  
