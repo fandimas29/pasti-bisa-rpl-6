@@ -94,7 +94,7 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
   
   ### 2. Activity Diagram 
   * Melihat biaya parkir :
-  <img src="">
+  <img src="https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/Activity%20Diagram.png">
   
 
   
