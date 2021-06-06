@@ -21,13 +21,13 @@
       <td>1</td>
       <td>Fandimas Wira Mahardika</td>
       <td>G54190042</td>
-      <td>Project Leader dan Backend Developer/td>
+      <td>Project Leader dan Full Stack Developer </td>
     </tr>
     <tr>
       <td>2</td>
       <td>Akmal Taufik</td>
       <td>G54190002</td>
-      <td>Frontend Developer</td>
+      <td>UI/UX Designer</td>
     </tr>
     <tr>
       <td>3</td>
