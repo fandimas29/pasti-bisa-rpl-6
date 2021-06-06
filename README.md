@@ -1,6 +1,6 @@
 <div align="center">
   <h1>PARKuy : Parkir lebih tenang </h1>
-  <img src="https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/logo%20parkuy.svg" width=250px>
+  <img src=https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/logo.svg width=250px>
   <br>
   <b>Rekayasa Perangkat Lunak (KOM331)<br>
   Kelompok 6 Praktikum 1</b>
