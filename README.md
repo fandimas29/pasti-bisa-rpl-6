@@ -124,16 +124,23 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
    &ensp;&ensp;&ensp;&ensp;&ensp; User dapat mengetahui riwayat atau catatan parkir sebelumnya.
   ### 7. Fungsi CRUD
   <b>a. Create:</b>
+  
   Pengguna dapat membuat riwayat biaya parkir
+  
   <b>b. Read:</b> 
+  
   Pengguna dapat melihat riwayat parkir sebelumnya
   Pengguna dapat melihat durasi lama parkir
   Pengguna dapat melihat lokasi tempat parkir
   Pengguna dapat melihat biaya parkir
+  
   <b>b. Update:</b> 
+  
   Pengguna dapat mengubah lokasi parkir
   Pengguna dapat menentukan jenis kendaraan
+  
   <b>b. Delete:</b> 
+  
   Pengguna dapat menghapus riwayat parkir sebelumnya
 
 ## Hasil Implementasi
