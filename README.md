@@ -82,3 +82,73 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
 * Database: PostgreSQL
 * Bahasa Pemograman: Javascript 
  
+
+
+
+## Hasil dan pembahasan
+[`^ Kembali Keatas ^`](#)
+
+  ### 1. Use Case Diagram 
+  
+  <img src="https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/user%20diagram.jpg">
+  
+  ### 2. Activity Diagram 
+  * Melihat biaya parkir :
+  <img src="">
+  
+  * Melihat catatan/riwayat :
+  <img src="">
+  
+  
+ 
+  ### 3. Class Diagram 
+  
+  
+  ### 4. Entity Relationship Diagram
+  
+ 
+  
+  ### 5. Arsitektur sistem  
+  
+ 
+  
+  ### 6. Fungsi Utama yang Dikembangkan 
+  
+  "PARKuy: Parkir lebih tenang" memiliki beberapa fungsi utama, yaitu:
+   
+   #### a. Perhitungan Biaya Parkir: 
+   &ensp;&ensp;&ensp;&ensp;&ensp; User dapat mengetahui biaya parkir yang akan dikeluarkan berdasarkan lokasi dan durasi lama parkir.
+  
+   <b> b. Mengetahui Riwayat Parkir: </b>
+   
+   &ensp;&ensp;&ensp;&ensp;&ensp; User dapat mengetahui riwayat atau catatan parkir sebelumnya.
+  ### 7. Fungsi CRUD
+  <b>a. Create:</b>
+  Pengguna dapat membuat riwayat biaya parkir
+  <b>b. Read:</b> 
+  Pengguna dapat melihat riwayat parkir sebelumnya
+  Pengguna dapat melihat durasi lama parkir
+  Pengguna dapat melihat lokasi tempat parkir
+  Pengguna dapat melihat biaya parkir
+  <b>b. Update:</b> 
+  Pengguna dapat mengubah lokasi parkir
+  Pengguna dapat menentukan jenis kendaraan
+  <b>b. Delete:</b> 
+  Pengguna dapat menghapus riwayat parkir sebelumnya
+
+## Hasil Implementasi
+[`^ Kembali Keatas ^`](#)
+  * Screenshot sistem 
+
+## Testing (Test cases)
+[`^ Kembali Keatas ^`](#)
+ 
+## Saran untuk Pengembangan Selanjutnya
+[`^ Kembali Keatas ^`](#)
+
+Berikut adalah beberapa saran dalam proyek pengembangan selanjutnya:
+1. Penyesuain UI/UX di IOS.
+2. Pembagian tugas sedari awal dengan jobdesc yang jelas supaya masing-masing anggota tim dapat mempelajari jobdesc
+3. Memaksimalkan komunikasi dan manajemen antar pengembang dalam proses pengembangan
+4. Memperbanyak database lokasi parkir
+5. Melakukan pembaharuan untuk fitur-fitur yang belum berjalan dengan baik.
