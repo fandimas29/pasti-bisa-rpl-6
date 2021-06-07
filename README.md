@@ -147,6 +147,8 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
   * Screenshot sistem 
   <img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/ss2.jpeg">
   <img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/ss.jpeg">
+  <img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/ss3.jpeg">
+  <img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/ss4.jpeg">
 
 ## Testing (Test cases)
 [`^ Kembali Keatas ^`](#)
