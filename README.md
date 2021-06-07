@@ -150,7 +150,14 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
 
 ## Testing (Test cases)
 [`^ Kembali Keatas ^`](#)
-<img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/merge_from_ofoct.jpg">
+
+* Positive Cases
+* 1. masuk ke dalam aplikasi -> berhasil 
+* 2. memilih jenis kendaraan -> berhasil masuk ke tampilan perhitungan
+* 3. memilih lokasi -> berhasil memilih dan  memunculkan tarif
+* 4. menghitung biaya -> berhasil melakukan perhitungan
+
+
  
 ## Saran untuk Pengembangan Selanjutnya
 [`^ Kembali Keatas ^`](#)
