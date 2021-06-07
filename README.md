@@ -150,6 +150,7 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
 
 ## Testing (Test cases)
 [`^ Kembali Keatas ^`](#)
+<img src= "https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/merge_from_ofoct.jpg">
 
 * Positive Cases
 * 1. masuk ke dalam aplikasi -> berhasil 
