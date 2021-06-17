@@ -3,8 +3,9 @@
   <img src=https://github.com/fandimas29/pasti-bisa-rpl-6/blob/main/logo.svg width=250px>
   <br>
   <b>Rekayasa Perangkat Lunak (KOM331)<br>
+    <b>Basis Data (KOM205)<br>
   Kelompok 6 Praktikum 1</b>
-  <br><br>
+  <br><br><br>
   <b> Asisten Praktikum: </b> <br>
   1. Kak Indah Puspita <br>
   2. Kak Qoriatul Khairunnisa
