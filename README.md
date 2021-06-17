@@ -67,7 +67,7 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
 
 #### Software:
 * Operating System : Windows 7 64-bit
-* Text Editor : Atom
+* Text Editor : Atom & AppLab (code.org)
 * Version Control System: Git
 * Design Tools and Prototyping : Figma
 * Management Tools : Trello and Google Site
@@ -80,7 +80,7 @@ Melalui diskusi dengan tim, didapatkan beberapa `user story` sebagai berikut:
 
 #### Tech Stack:
 * Framework: Ionic 
-* Database: Excel
+* Database: Mysql
 * Bahasa Pemograman: Javascript 
  
 
